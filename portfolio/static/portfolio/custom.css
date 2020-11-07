@@ -27,3 +27,7 @@ body {
     font-size: 5rem;
   }
 }
+
+body {
+  background-color: rgba(218, 215, 200, 0.78);
+}
